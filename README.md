@@ -8,9 +8,12 @@ Stack adalah suatu struktur data yang terbentuk dari barisan hingga yang terurut
 <h3>Jenis-Jenis Stack</h3>
 
 Berdasarkan kemampuan menyimpan data, struktur data stack dapat dibagi menjadi 2 jenis, yaitu: 
+
 a)	Register stack
+
 	Register stack merupakan stack yang hanya mampu menampung data dalam jumlah yang kecil. Kedalaman maksimum pada register stack cenderung dibatasi karena ukuran unit memorinya sangat kecil dibandingkan dengan memory stack. 
 
 
 b)	Memory stack
+
 	Pada stack jenis ini, kedalaman dari stack cukup fleksibel dan mampu menangani dalam dalam skala yang lebih besar dibandingkan jenis sebelumnya. 
