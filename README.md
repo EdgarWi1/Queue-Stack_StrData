@@ -17,3 +17,24 @@ a)	Register stack
 b)	Memory stack
 
 	Pada stack jenis ini, kedalaman dari stack cukup fleksibel dan mampu menangani dalam dalam skala yang lebih besar dibandingkan jenis sebelumnya. 
+
+
+<h3>Karakteristik Stack</h3>
+
+Struktur data stack memiliki ciri sebagai berikut: 
+
+a)	Stack diimplementasikan dengan struktur data array atau linked list. 
+b)	Mengikuti prinsip operasi (Last In, First Out), yaitu elemen yang dimasukkan pertama akan muncul terakhir dan sebaliknya. 
+c)	Penyisipan dan penghapusan terjadi di satu ujung yaitu dari atas tumpukan. 
+d)	Apabila ruang memori yang dialokasikan untuk struktur data stack sudah penuh namun masih dilakukan operasi penyisipan elemen maka akan terjadi stack overflow. 
+e)	Apabila struktur data tidak memiliki elemen data atau kosong, namun tetap dilakukan operasi penghapusan maka akan terjadi stack underflow.
+
+Operasi-Operasi Dasar Pada Stack 
+
+Ada beberapa operasi dasar yang bisa dilakukan terhadap struktur data stack. Operasi-operasi tersebut meliputi:
+
+a)	Push untuk menyisipkan elemen ke bagian atas stack.
+b)	Pop untuk menghapus elemen atas dari stack.
+c)	IsEmpty untuk memeriksa apakah stack kosong.
+d)	IsFull untuk memerika apakah stack sudah penuh.
+e)	Peek untuk mendapatkan nilai elemen teratas tanpa menghapusnya.
