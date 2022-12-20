@@ -1,7 +1,7 @@
 # Queue-Stack_StrData
 Edgar Silvanus Limba H071211026
 
-<h5>Pengertian Stack</h5>
+<h2>Pengertian Stack</h2>
 
 Stack adalah suatu struktur data yang terbentuk dari barisan hingga yang terurut dari satuan data. Pada Stack, penambahan dan penghapusan elemennya hanya dapat dilakukan pada satu posisi, yaitu posisi akhir stack. Posisi ini disebut Puncak atau Top dari stack. Berkebalikan dengan Queue atau antrian yang mana data yang masuk terlebih dahulu akan diproses terlebih dahulu.
 
@@ -50,7 +50,7 @@ e)	Peek untuk mendapatkan nilai elemen teratas tanpa menghapusnya.
 
 
 
-<h5>Pengertian Queue</h5>
+<h2>Pengertian Queue</h2>
 
 Queue adalah struktur data dimana data yang pertama kali dimasukkan adalah data yang pertama kali bisa dihapus. Atau bisa juga disebut dengan struktur data yang menggunakan mekanisme FIFO (First In, First Out). Berbeda dengan struktur data stack yang menyimpan data secara bertumpuk dimana hanya terdapat satu ujung yang terbuka untuk melakukan operasi data, struktur data queue justru disusun secara horizontal dan terbuka di kedua ujungnya. Ujung pertama (head) digunakan untuk menghapus data sedangkan ujung lainnya (tail) digunakan untuk menyisipkan data.
 
