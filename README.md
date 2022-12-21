@@ -9,13 +9,11 @@ Stack adalah suatu struktur data yang terbentuk dari barisan hingga yang terurut
 
 Berdasarkan kemampuan menyimpan data, struktur data stack dapat dibagi menjadi 2 jenis, yaitu: 
 
-a)	Register stack
-
+- Register stack <br>
 	Register stack merupakan stack yang hanya mampu menampung data dalam jumlah yang kecil. Kedalaman maksimum pada register stack cenderung dibatasi karena ukuran unit memorinya sangat kecil dibandingkan dengan memory stack. 
 
 
-b)	Memory stack
-
+- Memory stack <br>
 	Pada stack jenis ini, kedalaman dari stack cukup fleksibel dan mampu menangani dalam dalam skala yang lebih besar dibandingkan jenis sebelumnya. 
 
 
@@ -37,6 +35,7 @@ Ada beberapa operasi dasar yang bisa dilakukan terhadap struktur data stack. Ope
 - IsEmpty untuk memeriksa apakah stack kosong.
 - IsFull untuk memerika apakah stack sudah penuh.
 - Peek untuk mendapatkan nilai elemen teratas tanpa menghapusnya.
+<br>
 
 
 
